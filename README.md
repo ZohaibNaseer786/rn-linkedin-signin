@@ -9,11 +9,11 @@
 Simple <strong>LinkedIn</strong> login library for <strong>React-Native</strong> with <i>WebView</i> into a <i>Modal</i>
 </p>
 <p align="center">
-  <a href="#hire-an-expert"><img src="https://img.shields.io/badge/%F0%9F%92%AA-hire%20an%20expert-brightgreen"/></a>
-  <a href="https://gfycat.com/weepygratefulfairyfly"><img src="https://img.shields.io/badge/reactnative.gallery-%F0%9F%8E%AC-green.svg"></a>
-  <a href="https://www.npmjs.com/package/react-native-linkedin"><img src="https://badge.fury.io/js/react-native-linkedin.svg"></a>
-  <a href="https://www.npmjs.com/package/react-native-linkedin"><img src="https://img.shields.io/npm/dm/react-native-linkedin.svg?style=flat-square"></a>
-  <a href="https://travis-ci.org/xcarpentier/react-native-linkedin"><img src="https://travis-ci.org/xcarpentier/react-native-linkedin.svg?branch=master"></a>
+<!--   <a href="#hire-an-expert"><img src="https://img.shields.io/badge/%F0%9F%92%AA-hire%20an%20expert-brightgreen"/></a> -->
+  <a href="https://zohaib-personal.s3.amazonaws.com/linkedin.gif"><img src="https://img.shields.io/badge/reactnative.gallery-%F0%9F%8E%AC-green.svg"></a>
+  <a href="https://www.npmjs.com/package/rn-linkedin-signin"><img src="https://badge.fury.io/js/react-native-linkedin.svg"></a>
+  <a href="https://www.npmjs.com/package/rn-linkedin-signin"><img src="https://img.shields.io/npm/dm/react-native-linkedin.svg?style=flat-square"></a>
+  <a href="https://www.npmjs.com/package/rn-linkedin-signin"><img src="https://travis-ci.org/xcarpentier/react-native-linkedin.svg?branch=master"></a>
 </p>
 
 <br />
@@ -38,7 +38,7 @@ Please note that you should give your linkedin client id but not your secret key
 You should be aware that key can be found if you store it directly to your code.
 **I strongly recommend to not declare client secret key on your code but found a way to keep it secret**
 
-- [> Related issue]()
+- [> Related issue](https://github.com/ZohaibNaseer786/rn-linkedin-signin)
 - [> LinkedIn Documentation](https://docs.microsoft.com/en-us/linkedin/shared/api-guide/best-practices/secure-applications?context=linkedin/context#api-key-and-secret-key)
 
 ```tsx
@@ -114,7 +114,7 @@ export default class AppContainer extends React.Component {
 
 ## Contribution
 
-- [@xcarpentier](mailto:contact@xaviercarpentier.com)
+- [@xcarpentier]
 
 **PRs are welcome!**
 
@@ -143,14 +143,9 @@ export default class AppContainer extends React.Component {
 
 Feel free to [contact me](mailto:zohaibnaseer2244@gmail.com) or [create an issue](https://github.com/ZohaibNaseer786/react-native-linkedin-signin/issues)
 
-## Alternatives
-
-- [react-native-linkedin-login](https://www.npmjs.com/package/react-native-linkedin-login)
-- [react-native-linkedin-sdk](https://www.npmjs.com/package/react-native-linkedin-sdk)
-- [react-native-linkedin-oauth](https://www.npmjs.com/package/react-native-linkedin-oauth)
 
 ## Licence
 
-[MIT](https://github.com/xcarpentier/react-native-linkedin/blob/master/LICENSE)
+[MIT](https://github.com/ZohaibNaseer786/rn-linkedin-signin)
 
 > made with ♥
