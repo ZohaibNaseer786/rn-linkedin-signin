@@ -1,5 +1,5 @@
 <p align="center">
-    <img alt="rn-linkedin-signin" src="https://gfycat.com/weepygratefulfairyfly" width=250>
+    <img alt="rn-linkedin-signin" src="https://zohaib-personal.s3.amazonaws.com/linkedin.gif" width=250>
 </p>
 
 <h3 align="center">
